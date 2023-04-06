@@ -1,4 +1,7 @@
-# FIAP - 1° Checkpoint - Coding for Security
+# FIAP - 1° Checkpoint - Coding for Security - DataShield
+
+## Repository in PT-BR
+[Link to the GitHub](https://github.com/MatheusRosa800/CP1---CodingForSecurity---PT-BR)
 
 ## Introdution
 Checkpoint carried out with the aim of putting into practice all the knowledge in Python acquired in the subject of Coding for Security, taught by [Fábio Cabrini](https://www.linkedin.com/in/fabio-cabrini/).
@@ -27,10 +30,10 @@ It is a numerical sequence which each number is the sum/addition of the two numb
 
 ### 2° Step - Get the project from github,
 To get the files type this command:
-
-git clone https://github.com/MatheusRosa800/CP1---Coding-for-Security
-cd CP1---Coding-for-Security
-
+```
+git clone https://github.com/MatheusRosa800/CP1---Coding-for-Security---EN-US.git
+cd CP1---Coding-for-Security---EN-US
+```
 ### 3° Step - Execute the command below to open the python program
 
 python3 index.py
