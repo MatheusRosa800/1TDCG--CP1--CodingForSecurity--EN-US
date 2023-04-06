@@ -1,7 +1,7 @@
 # FIAP - 1° Checkpoint - Coding for Security
 
 ## Introdution
-Checkpoint carried out with the aim of putting into practice all the knowledge in Python acquired in the subject of Coding for Security, taught by [Fábio Cabrini].(https://www.linkedin.com/in/fabio-cabrini/).
+Checkpoint carried out with the aim of putting into practice all the knowledge in Python acquired in the subject of Coding for Security, taught by [Fábio Cabrini](https://www.linkedin.com/in/fabio-cabrini/).
 
 ## Participants
 - Eduardo dos Santos
@@ -39,7 +39,7 @@ python3 index.py
 ![Imagem do programa](https://i.ibb.co/H42b5Pf/img.png)
 
 ## Youtube
-[Link to the Youtube](https://youtu.be/wFsU3rTPcH8)
+[Link to the Youtube](https://www.youtube.com/watch?v=wFsU3rTPcH8&ab_channel=PedroAugusto)
 
 ## Error handling implementations
 - [ ] Problem
