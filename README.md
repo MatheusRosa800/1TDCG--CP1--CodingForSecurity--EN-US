@@ -35,9 +35,9 @@ git clone https://github.com/MatheusRosa800/CP1---Coding-for-Security---EN-US.gi
 cd CP1---Coding-for-Security---EN-US
 ```
 ### 3° Step - Execute the command below to open the python program
-
+```
 python3 index.py
-
+```
 ### 4° Step - write the quantity of numbers that you want to see
 ![Imagem do programa](https://i.ibb.co/H42b5Pf/img.png)
 
